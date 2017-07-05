@@ -19,9 +19,9 @@ A forum to discuss and collaborate views on a various topics where users can cre
 | Security                | Spring Security               |
 
 > ### Why MongoDB?
-> 1. High reads without any joins as in relational database.
+> 1. High read-writes without any joins as in relational database.
 > 2. Easy for development as it often involves modification of data structure(schema)
-> 3. More understandable No-SQL queries.
+> 3. More explanatory No-SQL queries.
 
 > ### Why Spring framework?
 > Spring has highly organised modules for various software architecture concerns.
