@@ -28,7 +28,7 @@ A forum to discuss and collaborate views on a various topics where users can cre
 
 > #### Spring boot
 > 1. Provides cloud native support.
-> 2. Easy kick start of application using Stater dependencies.
+> 2. Easy kick start of application using Starter dependencies.
 > 3. Out of box features like Dev tools, actuators and auto configurations.
 > 4. Embedded servers.
 
@@ -48,7 +48,6 @@ A forum to discuss and collaborate views on a various topics where users can cre
 > 1. Spring Security provides out of the box functionalities for securing endpoints based on filters.
 > 2. It also provides Bcrypt password hashing which is been persisted in the database.
 > 3. Decryption of the received AES - 256 bits encrypted password.
-
 
 > ### Logging - Logback
 > Simple logging configuration
