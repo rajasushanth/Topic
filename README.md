@@ -6,17 +6,17 @@ A forum to discuss and collaborate views on a various topics where users can cre
 
 ## Technology stack
 
-| Feature            | Technology                    |
-|--------------------|-------------------------------|
-| Language           | Java                          |
-| Database           | MongoDB                       |
-| Logging            | Logback                       |
-| JWT                | Access tokens                 |
-| Auto configuration | Spring boot                   |
-| Persistence        | Spring Data                   |
-| API                | Spring REST                   |
-| AOP                | Spring AOP                    |
-| Security           | Spring Security               |
+| Feature                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |
+|-----------------------  |-------------------------------|
+| Language                | Java                          |
+| Database                | MongoDB                       |
+| Logging                 | Logback                       |
+| JWT                     | Access tokens                 |
+| Auto configuration      | Spring boot                   |
+| Persistence             | Spring Data                   |
+| API                     | Spring REST                   |
+| AOP                     | Spring AOP                    |
+| Security                | Spring Security               |
 
 > ### Why MongoDB?
 > 1. High reads without any joins as in relational database.
