@@ -4,6 +4,13 @@ A forum to discuss and collaborate views on a various topics where users can cre
 
 ## Architecture
 
+### Project Modules
+1. [Topic Service](https://github.com/rajasushanth/topic-service.git)
+2. [Topic Web](https://github.com/rajasushanth/topic-web.git)
+3. [Topic Config](https://github.com/rajasushanth/topic-config.git)
+    1. [Topic Properties](https://github.com/rajasushanth/topic-properties.git)
+    2. [Topic Manifest](https://github.com/rajasushanth/topic-manifest.git)
+
 ## Technology stack
 
 | Feature                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |
