@@ -5,11 +5,12 @@ A forum to discuss and collaborate views on a various topics where users can cre
 ## Architecture
 
 ### Project Modules
-1. [Topic Service](https://github.com/rajasushanth/topic-service.git)
-2. [Topic Web](https://github.com/rajasushanth/topic-web.git)
-3. [Topic Config](https://github.com/rajasushanth/topic-config.git)
-    1. [Topic Properties](https://github.com/rajasushanth/topic-properties.git)
-    2. [Topic Manifest](https://github.com/rajasushanth/topic-manifest.git)
+1. [Topic Service](https://github.com/rajasushanth/topic-service.git) - REST API as an Application layer. (Business logic)
+2. [Topic Web](https://github.com/rajasushanth/topic-web.git) - User Interface module as Presetation layer.
+3. [MonogoDB](https://www.mongodb.com/) (or) [mLab](https://mlab.com/) - Persistence module as a Data layer.
+4. [Topic Config](https://github.com/rajasushanth/topic-config.git) - Centralized configuration server for the applications.
+    1. [Topic Properties](https://github.com/rajasushanth/topic-properties.git) - Repository for storing application properties.
+    2. [Topic Manifest](https://github.com/rajasushanth/topic-manifest.git) - YML Configurations for deploying in Pivotal Cloud Foundry.
 
 ### Architectural Representation
 
