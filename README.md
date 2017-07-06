@@ -59,5 +59,9 @@ A forum to discuss and collaborate views on a various topics where users can cre
 > 2. It also provides Bcrypt password hashing which is been persisted in the database.
 > 3. Decryption of the received AES - 256 bits encrypted password.
 
-> ### Logging - Logback
+> ### Why JWT?
+> Json Web Tokens are simple yet secured.
+> It prevents the latency involved in OAuth authentication
+
+> ### Why Logback?
 > Simple logging configuration
