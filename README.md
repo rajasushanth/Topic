@@ -56,12 +56,12 @@ A forum to discuss and collaborate views on a various topics where users can cre
 
 > #### Security -  Spring Security
 > 1. Spring Security provides out of the box functionalities for securing endpoints based on filters.
-> 2. It also provides Bcrypt password hashing which is been persisted in the database.
+> 2. It also provides Bcrypt password hashing which is been persisted into the database.
 > 3. Decryption of the received AES - 256 bits encrypted password.
 
 > ### Why JWT?
-> Json Web Tokens are simple yet secured.
-> It prevents the latency involved in OAuth authentication
+> 1. Json Web Tokens are simple yet secured by encryption algorithms.
+> 2. It prevents the latency involved in OAuth authentication
 
 > ### Why Logback?
 > Simple logging configuration
