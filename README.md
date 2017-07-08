@@ -1,6 +1,6 @@
 # Topic
 
-A forum to discuss and collaborate views on a various topics where users can create topics, post comments in one to many fashion and search topics. This project exhibits a 3-tier architecture modeling such as Web, App and Database which is simple and robust. Primary objective of this project is to unviel power of REST architecture built using Spring framework and persisted on MongoDB.
+A forum to discuss and collaborate views on a various topics where users can create topics, post comments and search topics. This project exhibits 3-tier architecture modeling such as Web, App and Database which is simple and robust. Primary objective is to unviel power of REST architecture built using Spring framework and persisted on MongoDB.
 
 ## Architecture
 
@@ -56,7 +56,7 @@ A forum to discuss and collaborate views on a various topics where users can cre
 > 2. Used CGlib proxies for logging, since JDK Proxies can be applied only on interface implementations.
 
 > #### Security -  Spring Security
-> 1. Spring Security provides out of the box functionalities for securing endpoints based on filters.
+> 1. Spring Security provides out of the box functionalities for securing endpoints based on servlet filters.
 > 2. It also provides Bcrypt password hashing which is been persisted into the database.
 > 3. Decryption of the received AES - 256 bits encrypted password.
 
