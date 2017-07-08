@@ -13,7 +13,7 @@ A forum to discuss and collaborate views on a various topics where users can cre
     2. [Topic Manifest](https://github.com/rajasushanth/topic-manifest.git) - YML Configurations for deploying in Pivotal Cloud Foundry.
 
 ### Architecture Diagram
-![Topic Architecture](/images/Topic.jpg "Topic Architecture")
+![Topic Architecture](https://rajasushanth.github.io/Topic/images/Topic.jpg "Topic Architecture")
 
 ## Technology stack
 
