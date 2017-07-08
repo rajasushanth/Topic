@@ -2,15 +2,15 @@
 
 A forum to discuss and collaborate views on a various topics where users can create topics, post comments and search topics. This project exhibits 3-tier architecture modeling such as Web, App and Database which is simple and robust. Primary objective is to unviel power of REST architecture built using Spring framework and persisted on MongoDB.
 
-## Architecture
-
-### Project Modules
+## Project Modules
 1. [Topic Web](https://rajasushanth.github.io/Topic-web/) - User Interface module as Web/Presentation layer.
 2. [Topic Service](https://rajasushanth.github.io/Topic-service/) - REST API as an App/Business layer.
 3. [MonogoDB](https://www.mongodb.com/) (or) [mLab](https://mlab.com/) - Persistence module as a Data layer.
 4. [Topic Config](https://rajasushanth.github.io/Topic-config/) - Centralized configuration server for the applications.
     1. [Topic Properties](https://github.com/rajasushanth/topic-properties.git) - Repository for storing application properties.
     2. [Topic Manifest](https://github.com/rajasushanth/topic-manifest.git) - YML Configurations for deploying in Pivotal Cloud Foundry.
+
+## Architecture
 
 ### Architecture Diagram
 ![Topic Architecture](https://rajasushanth.github.io/Topic/images/Topic.png "Topic Architecture")
