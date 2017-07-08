@@ -5,8 +5,8 @@ A forum to discuss and collaborate views on a various topics where users can cre
 ## Architecture
 
 ### Project Modules
-1. [Topic Service](https://rajasushanth.github.io/Topic-service/) - REST API as an Application layer. (Business logic)
-2. [Topic Web](https://rajasushanth.github.io/Topic-web/) - User Interface module as Presentation layer.
+1. [Topic Web](https://rajasushanth.github.io/Topic-web/) - User Interface module as Web/Presentation layer.
+2. [Topic Service](https://rajasushanth.github.io/Topic-service/) - REST API as an App/Business layer.
 3. [MonogoDB](https://www.mongodb.com/) (or) [mLab](https://mlab.com/) - Persistence module as a Data layer.
 4. [Topic Config](https://rajasushanth.github.io/Topic-config/) - Centralized configuration server for the applications.
     1. [Topic Properties](https://github.com/rajasushanth/topic-properties.git) - Repository for storing application properties.
