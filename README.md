@@ -70,7 +70,11 @@ A forum to discuss and collaborate views on a various topics where users can cre
 > Simple logging configuration
 
 > ### Why Pivotal Cloud Foundry?
-> 
+> 1. Open source Platform-as-a-Service.
+> 2. Cloud native applications can be deployed seamlessly.
+> 3. Free to use, with limited trial credit.
 
 > ### Why Travis CI?
-> 
+> 1. Travis CI is a free Continous Integration service for projects hosted in GitHub
+> 2. Simple configuration steps through .travis.yml 
+> 3. Support for deployment of application in Pivotal cloud foundry
