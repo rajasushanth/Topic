@@ -28,6 +28,8 @@ A forum to discuss and collaborate views on a various topics where users can cre
 | API                     | Spring REST                   |
 | AOP                     | Spring AOP                    |
 | Security                | Spring Security               |
+| PaaS                    | Pivotal Cloud Foundry         |
+| Continous Integration   | Travis CI                     |
 
 > ### Why MongoDB?
 > 1. High read-writes without any joins as in relational database.
@@ -66,3 +68,9 @@ A forum to discuss and collaborate views on a various topics where users can cre
 
 > ### Why Logback?
 > Simple logging configuration
+
+> ### Why Pivotal Cloud Foundry?
+> 
+
+> ### Why Travis CI?
+> 
