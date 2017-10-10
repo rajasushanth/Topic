@@ -30,6 +30,7 @@ A forum to discuss and collaborate views on a various topics where users can cre
 | Security                | Spring Security               |
 | PaaS                    | Pivotal Cloud Foundry         |
 | Continous Integration   | Travis CI                     |
+| Artifactory             | JFrog Bintray                 |
 
 > ### Why MongoDB?
 > 1. High read-writes without any joins as in relational database.
@@ -75,6 +76,10 @@ A forum to discuss and collaborate views on a various topics where users can cre
 > 3. Free to use, with limited trial credit.
 
 > ### Why Travis CI?
-> 1. Travis CI is a free Continous Integration service for projects hosted in GitHub
+> 1. Travis CI is a free Continous Integration-as-a-service for projects hosted in GitHub
 > 2. Simple configuration steps through .travis.yml 
 > 3. Support for deployment of application in Pivotal cloud foundry
+
+> ### Why Bintray?
+> 1. Bintray is a free Artifactory-as-a-service, where artifacts like '.jar', '.war' etc can be stored.
+> 2. Universal distribution of artifacts.
